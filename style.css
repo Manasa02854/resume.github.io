@@ -1,0 +1,42 @@
+body{
+    color:black;
+}
+
+.name{
+    padding-bottom:100px;
+    padding-right:100px;
+    text-emphasis-color: black;
+}
+
+#hire{
+    background: black;
+color:white
+}
+
+.footer{
+    background-color:#CD113B;
+    color: #fff;
+    text-align: center;
+    margin:20px;
+   
+    text-decoration: none;
+
+}
+.footer-icon{
+    margin:0% 3% 0% 0%;
+}
+.navbar-nav{
+    text-align: center;
+}
+p{
+    color:grey;
+    text-indent: 2;
+}
+.top:hover{
+    color:#CD113B;
+    text-decoration: none;
+}
+.marks{
+   padding-top:  200px;
+   padding-left: 200px;
+}
